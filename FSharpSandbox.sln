@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharpSandbox", "FSharp\FSharpSandbox.fsproj", "{03A569D9-5048-4D02-9E95-C0DCA683AD07}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "FSharpSandbox", "FSharpSandbox\FSharpSandbox.fsproj", "{E15E78EE-741F-4C0C-958F-412FA75BDF11}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{03A569D9-5048-4D02-9E95-C0DCA683AD07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{03A569D9-5048-4D02-9E95-C0DCA683AD07}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{03A569D9-5048-4D02-9E95-C0DCA683AD07}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{03A569D9-5048-4D02-9E95-C0DCA683AD07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E15E78EE-741F-4C0C-958F-412FA75BDF11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E15E78EE-741F-4C0C-958F-412FA75BDF11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E15E78EE-741F-4C0C-958F-412FA75BDF11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E15E78EE-741F-4C0C-958F-412FA75BDF11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
